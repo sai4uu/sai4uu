@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=300&section=footer&text=Data%20Engineer%20%7C%20Multi-Cloud&fontSize=70&fontAlignY=50&animation=fadeIn)
-  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Azure+%7C+GCP+Data+Engineer;Building+Enterprise+Data+Solutions;Multi-Cloud+Expertise)](https://git.io/typing-svg)
 
 </div>
@@ -244,4 +242,10 @@ I'm always interested in collaborating on:
 
 **Made with ❤️ by Sai4uu | Always Learning, Always Building 🚀**
 
+</div>
+
+<div align="center">
+  
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=footer&text=Data%20Engineer%20%7C%20Multi-Cloud&fontSize=50&fontAlignY=60&animation=fadeIn&width=1000)
+  
 </div>
