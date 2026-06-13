@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=300&section=header&text=Data%20Engineer%20%7C%20Multi-Cloud&fontSize=70&fontAlignY=50&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=300&section=footer&text=Data%20Engineer%20%7C%20Multi-Cloud&fontSize=70&fontAlignY=50&animation=fadeIn)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Azure+%7C+GCP+Data+Engineering;Building+Scalable+Data+Solutions;dbt+%7C+BigQuery+%7C+Airflow+%7C+Fabric+%7C+Learning)](https://github.com/sai4uu)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Azure+%7C+GCP+Data+Engineer;Building+Enterprise+Data+Solutions;Multi-Cloud+Expertise)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a **Data Engineer** passionate about architecting and building enterprise-scale data solutions across **Azure, GCP, and modern data platforms**. With expertise in cloud technologies, data orchestration, and transformation frameworks, I help organizations transform their data into actionable insights.
+I'm a **Data Engineer** passionate about architecting and building enterprise-scale data solutions across **Azure, GCP, and modern data platforms**. With expertise in cloud technologies, data orchestration, and transformation, I help organizations build scalable, cost-effective data infrastructures.
 
 - ☁️ **Multi-Cloud Expertise**: Azure & Google Cloud Platform (GCP)
 - 📊 **Specialization**: Data Pipelines, Data Warehousing, Data Transformation
@@ -60,7 +60,7 @@ I'm a **Data Engineer** passionate about architecting and building enterprise-sc
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[Adventure Works Data Engineering](https://github.com/sai4uu/Adventure-Works-Data-Engineering-Project)** | Enterprise-scale ETL solution with end-to-end data pipeline architecture | Azure ADF, Synapse, SQL |
+| **[Adventure Works Data Engineering](https://github.com/sai4uu/Adventure-Works-Data-Engineering-Project)** | Enterprise-scale ETL solution with end-to-end data pipeline architecture | Azure ADF, SQL, Python |
 | **[Azure Synapse End-to-End](https://github.com/sai4uu/azure-synapse-end-to-end)** | Comprehensive Synapse Analytics implementation for modern data warehousing | Synapse, Python, Notebooks |
 | **[CI/CD Databricks Project](https://github.com/sai4uu/CICD-DATABRICKS-PROJECT)** | Automated data processing with complete CI/CD pipeline integration | Databricks, GitHub Actions, Python |
 | **[Azure CI/CD Pipeline](https://github.com/sai4uu/Azure-CICD)** | Azure DevOps best practices for cloud infrastructure automation | Azure DevOps, IaC, Pipelines |
@@ -215,7 +215,9 @@ I'm a **Data Engineer** passionate about architecting and building enterprise-sc
 
 ## 💡 Philosophy
 
-> **"Data is the foundation of informed decision-making. As a Data Engineer, my role is to ensure that data flows seamlessly, securely, and efficiently through the organization's infrastructure—regardless of the cloud platform. I believe in building scalable, maintainable solutions using modern tools like dbt and Airflow."**
+> **"Data is the foundation of informed decision-making. As a Data Engineer, my role is to ensure that data flows seamlessly, securely, and efficiently through the organization's infrastructure."**
+
+Every pipeline I build, every transformation I design, and every architecture I propose is guided by principles of scalability, reliability, and cost-effectiveness. In the rapidly evolving world of data engineering, I believe continuous learning and adaptation are key to staying ahead.
 
 ---
 
