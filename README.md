@@ -8,6 +8,18 @@
 
 ---
 
+<div align="center">
+
+# 🎯 Data Engineer | Multi-Cloud Solutions
+
+### Azure • GCP • Databricks • Synapse • BigQuery
+
+**Building Enterprise-Scale Data Platforms** 
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 I'm a **Data Engineer** passionate about architecting and building enterprise-scale data solutions across **Azure, GCP, and modern data platforms**. With expertise in cloud technologies, data orchestration, and transformation, I help organizations build scalable, cost-effective data infrastructures.
@@ -241,9 +253,5 @@ I'm always interested in collaborating on:
 ![Last Updated](https://img.shields.io/badge/Profile%20Updated-June%202026-informational?style=flat-square)
 
 **Made with ❤️ by Sai4uu | Always Learning, Always Building 🚀**
-
----
-
-## 🎓 Data Engineer | Multi-Cloud Specialist
 
 </div>
