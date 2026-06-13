@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=300&section=header&text=Azure%20Data%20Engineer&fontSize=70&fontAlignY=50&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=300&section=header&text=Data%20Engineer%20%7C%20Multi-Cloud&fontSize=70&fontAlignY=50&animation=fadeIn)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Azure+Data+Engineering+Specialist;Building+Scalable+Data+Solutions;ETL%2FELT+%7C+Cloud+%7C+DevOps)](https://github.com/sai4uu)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Azure+%7C+GCP+Data+Engineering;Building+Scalable+Data+Solutions;dbt+%7C+BigQuery+%7C+Airflow+%7C+Fabric+%7C+Learning)](https://github.com/sai4uu)
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ## 🚀 About Me
 
-I'm an **Azure Data Engineer** passionate about architecting and building enterprise-scale data solutions. With expertise in cloud technologies and modern data engineering practices, I help organizations transform their data into actionable insights.
+I'm a **Data Engineer** passionate about architecting and building enterprise-scale data solutions across **Azure, GCP, and modern data platforms**. With expertise in cloud technologies, data orchestration, and transformation frameworks, I help organizations transform their data into actionable insights.
 
-- ☁️ **Specialization**: Azure Data Engineering & Cloud Architecture
-- 📊 **Expertise**: Data Pipelines, Data Warehousing, Big Data Processing
-- 🔧 **Tech Stack**: Azure (ADF, Synapse, Databricks), Python, SQL, Spark
-- 🎯 **Focus**: Designing scalable, cost-effective data solutions
-- 📚 **Mindset**: Continuous learning & innovation
+- ☁️ **Multi-Cloud Expertise**: Azure & Google Cloud Platform (GCP)
+- 📊 **Specialization**: Data Pipelines, Data Warehousing, Data Transformation
+- 🔧 **Tech Stack**: Azure (ADF, Synapse, Databricks), GCP (BigQuery, Dataflow), dbt, Airflow, Fabric
+- 🎯 **Focus**: Designing scalable, cost-effective, maintainable data solutions
+- 📚 **Currently Learning**: dbt, GCP, BigQuery, Fabric, Apache Airflow
 
 ---
 
@@ -26,11 +26,17 @@ I'm an **Azure Data Engineer** passionate about architecting and building enterp
 
 <div align="center">
 
-### ☁️ Azure Ecosystem
+### ☁️ Multi-Cloud Platforms
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Synapse Analytics](https://img.shields.io/badge/Synapse%20Analytics-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 📊 Data Transformation & Orchestration
+![dbt](https://img.shields.io/badge/dbt-FF6B35?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure Data Lake](https://img.shields.io/badge/Data%20Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 🔧 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -85,9 +91,9 @@ I'm an **Azure Data Engineer** passionate about architecting and building enterp
 <summary><b>Data Engineering</b></summary>
 
 - ✅ ETL/ELT Pipeline Design & Development
-- ✅ Data Warehouse Architecture (Synapse, Snowflake concepts)
-- ✅ Data Lake Implementation (Azure Data Lake Gen2)
-- ✅ Real-time Streaming (Event Hubs, Stream Analytics)
+- ✅ Data Warehouse Architecture (Synapse, BigQuery)
+- ✅ Data Lake Implementation (Azure Data Lake Gen2, GCS)
+- ✅ Real-time Streaming (Event Hubs, Pub/Sub)
 - ✅ Data Quality & Governance
 - ✅ Performance Optimization & Tuning
 
@@ -101,7 +107,41 @@ I'm an **Azure Data Engineer** passionate about architecting and building enterp
 - ✅ Azure Databricks (Clusters, Jobs, Notebooks)
 - ✅ Azure Data Lake Storage (ADLS Gen2)
 - ✅ Azure SQL Database & Managed Instance
-- ✅ Azure Key Vault & Security Best Practices
+- ✅ Microsoft Fabric (Modern Analytics Engine)
+
+</details>
+
+<details>
+<summary><b>Google Cloud Platform (GCP) - Learning 🚀</b></summary>
+
+- 📚 BigQuery (Data Warehouse & Analytics)
+- 📚 Cloud Dataflow (Apache Beam pipelines)
+- 📚 Google Cloud Storage (GCS)
+- 📚 Cloud Pub/Sub (Messaging & Streaming)
+- 📚 Cloud Composer (GCP's Airflow)
+- 📚 Dataprep & Cloud Tasks
+
+</details>
+
+<details>
+<summary><b>Data Transformation & Orchestration - Learning 🚀</b></summary>
+
+- 📚 dbt (Data Build Tool) - Transformation best practices
+- 📚 Apache Airflow - Workflow orchestration & DAG design
+- 📚 dbt Cloud Integration
+- 📚 DAG design & monitoring
+- 📚 Data lineage & documentation
+
+</details>
+
+<details>
+<summary><b>Microsoft Fabric - Learning 🚀</b></summary>
+
+- 📚 Fabric Workspace & Lakehouse
+- 📚 Data Factory in Fabric
+- 📚 Synapse Data Engineering
+- 📚 Real-time Analytics
+- 📚 Fabric Notebooks
 
 </details>
 
@@ -118,12 +158,45 @@ I'm an **Azure Data Engineer** passionate about architecting and building enterp
 
 ---
 
+## 🚀 Learning Roadmap
+
+<div align="center">
+
+| Technology | Status | Focus Area | Timeline |
+|------------|--------|-----------|----------|
+| **dbt (Data Build Tool)** | 🚀 **In Progress** | SQL transformation, best practices | Ongoing |
+| **Google Cloud Platform (GCP)** | 🚀 **In Progress** | BigQuery, Dataflow, Cloud Composer | Ongoing |
+| **BigQuery** | 🚀 **In Progress** | Query optimization, ML integration | Ongoing |
+| **Apache Airflow** | 🚀 **In Progress** | DAG design, orchestration patterns | Ongoing |
+| **Microsoft Fabric** | 🚀 **In Progress** | Modern analytics engine, integration | Ongoing |
+
+</div>
+
+---
+
 ## 📈 What I'm Currently Working On
 
-🔨 **Building** - Enterprise-scale data solutions on Azure  
-📚 **Learning** - Advanced Spark optimization & Machine Learning  
-🤝 **Contributing** - Data engineering best practices & patterns  
-🎓 **Exploring** - Azure Purview, Data Governance, Fabric  
+🔨 **Building** - Multi-cloud data solutions (Azure + GCP)  
+📚 **Learning** - dbt, BigQuery, Airflow, Microsoft Fabric, GCP Services  
+🤝 **Exploring** - Data transformation best practices with dbt  
+🎓 **Developing** - End-to-end data orchestration pipelines with Airflow  
+🌍 **Expanding** - GCP ecosystem & multi-cloud architecture patterns  
+⚡ **Experimenting** - Microsoft Fabric for unified analytics  
+
+---
+
+## 💡 Key Interests
+
+<div align="center">
+
+- 🔄 **Data Transformation** with dbt & modern tools
+- ☁️ **Multi-Cloud Architecture** (Azure + GCP)
+- 🏗️ **Data Orchestration** with Airflow & Cloud Composer
+- 📊 **Analytics Engineering** best practices
+- 🔗 **Data Integration** & Pipeline Patterns
+- 🚀 **Cloud-Native** Data Solutions
+
+</div>
 
 ---
 
@@ -142,17 +215,21 @@ I'm an **Azure Data Engineer** passionate about architecting and building enterp
 
 ## 💡 Philosophy
 
-> **"Data is the foundation of informed decision-making. As a Data Engineer, my role is to ensure that data flows seamlessly, securely, and efficiently through the organization's infrastructure."**
+> **"Data is the foundation of informed decision-making. As a Data Engineer, my role is to ensure that data flows seamlessly, securely, and efficiently through the organization's infrastructure—regardless of the cloud platform. I believe in building scalable, maintainable solutions using modern tools like dbt and Airflow."**
 
 ---
 
 ## 📞 Get in Touch
 
 I'm always interested in collaborating on:
-- 💼 Data engineering projects & solutions
-- 🏢 Enterprise data transformation initiatives
+- 💼 Multi-cloud data engineering projects
+- 🏢 Enterprise data transformation with dbt
+- 🔄 Data orchestration with Airflow
 - 📖 Knowledge sharing & technical discussions
 - 🤝 Open-source data engineering projects
+- ☁️ Azure + GCP integration solutions
+- 📊 BigQuery & analytics engineering
+- 🎓 Learning & mentoring opportunities
 
 **Feel free to explore my repositories and reach out!**
 
@@ -163,6 +240,6 @@ I'm always interested in collaborating on:
 ![Profile Views](https://komarev.com/ghpvc/?username=sai4uu&color=0078D4&style=flat-square)
 ![Last Updated](https://img.shields.io/badge/Profile%20Updated-June%202026-informational?style=flat-square)
 
-**Made with ❤️ by Sai4uu**
+**Made with ❤️ by Sai4uu | Always Learning, Always Building 🚀**
 
 </div>
