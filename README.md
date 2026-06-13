@@ -242,10 +242,8 @@ I'm always interested in collaborating on:
 
 **Made with ❤️ by Sai4uu | Always Learning, Always Building 🚀**
 
-</div>
+---
 
-<div align="center">
-  
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=footer&text=Data%20Engineer%20%7C%20Multi-Cloud&fontSize=50&fontAlignY=60&animation=fadeIn&width=1000)
-  
+## 🎓 Data Engineer | Multi-Cloud Specialist
+
 </div>
